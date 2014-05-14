@@ -5,5 +5,6 @@ public class Main
 	{
 		System.out.println("Hello tacos");
 		System.out.println("Luis is a bitch");
+		System.out.println("Everyone's a bitch!");
 	}
 }
